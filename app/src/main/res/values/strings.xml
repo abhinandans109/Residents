@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Residents</string>
+    <string name="tab_text_1">BOOKMARKS</string>
+    <string name="tab_text_2">A WING</string>
+    <string name="tab_text_3">B WING</string>
+</resources>
